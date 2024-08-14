@@ -1,1 +1,0 @@
-\dev\Java\jdk17.0.1\bin\java --module-path "\dev\Java\javafx-sdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml,javafx.media  -jar \teach\java2\java-fx-client.jar
